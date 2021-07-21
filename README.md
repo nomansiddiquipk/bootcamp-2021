@@ -373,7 +373,7 @@ Class 5 Videos: Advanced Todo App in TypeScript
 
 
 
-## Project One: Todo Console and Persistent Data App in TypeScript
+## Project 1: Todo Console and Persistent Data App in TypeScript
 
 Study the Chapter One of the Essential Typescript Text book and create a Todo App with a command line interface and Persistent storage of data.
 
@@ -383,7 +383,31 @@ Study the Chapter One of the Essential Typescript Text book and create a Todo Ap
 
 [Publishing Packages on NPM Code](https://github.com/panacloud/bootcamp-2021/tree/main/code/npm-publish)
 
+Class 6 Videos: Publishing Packages on NPM
 
+[Class 6: Publishing Packages on NPM in English on Facebook](https://www.facebook.com/fb.anees.ahmed/videos/403045184458900)
+
+[Class 6: Publishing Packages on NPM in English on YouTube](https://www.youtube.com/watch?v=gorOkthsdec)
+
+[Class 6: Publishing Packages on NPM in Urdu on Facebook](https://www.facebook.com/Ai.SirQasim/videos/846570356261059)
+
+[Class 6: Publishing Packages on NPM in Urdu on YouTube](https://www.youtube.com/watch?v=icsgsnS6mg4)
+
+## Project 2: Todo CLI
+
+Build a Todo Command Line Interface App using Typescript and oclif, publish it as a global npm package.
+
+[Follow these steps to Submit the Project](https://github.com/panacloud/bootcamp-2021-proj-sub)
+
+Project Reading Resources:
+
+[oclif: The open CLI Framework](https://oclif.io/)
+
+[oclif Introduction](https://oclif.io/docs/introduction)
+
+[Getting started with oclif by creating a todo cli app](https://medium.com/the-z/getting-started-with-oclif-by-creating-a-todo-cli-app-b3a2649adbcf)
+
+[Todo CLI Repo](https://github.com/dalenguyen/todo-cli)
 
 
 ## Part 3: Introduction to Serverless using CDK v2
